@@ -80,4 +80,4 @@ The UI embeds **Space Grotesk** and **Space Mono**, both licensed under the SIL 
 
 ---
 
-*GEMS is a project by [Totemphonia](https://totemphonia.com/en/gems/), Berlin.*
+*GEMS is a project by [Totemphonia Studio Berlin](https://totemphonia.com/en/gems/)*
