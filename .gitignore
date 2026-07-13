@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode build products — large & rebuildable.
+# (Builds/MacOSX/build/ contains a 185 MB .a that exceeds GitHub's 100 MB file limit.)
+Builds/MacOSX/build/
+*.xcuserstate
+xcuserdata/
+*.xcuserdatad/
+
+# Built plugin / app binaries — distribute via GitHub Releases, not the repo.
+*.vst3
+*.component
+*.au
+*.app
+
+# Local tooling / editor state
+.claude/
+
+# Working notes and source material — kept local, not published.
+*.vcv
+docs/GEMS_V2/
